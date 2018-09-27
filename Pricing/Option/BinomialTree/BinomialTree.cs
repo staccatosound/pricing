@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pricing.Option
+namespace Pricing.Option.BinomialTree
 {
   public class BinomialTree
   {

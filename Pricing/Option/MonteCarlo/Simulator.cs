@@ -37,7 +37,7 @@ namespace Pricing.Option.MonteCarlo
       Task.WaitAll(PriceSimList.Select(c => c.RunSim()).ToArray());
     }
 
-    public double CallValule()
+    public double CallValue()
     {
       return Math.Exp(-SimulatedPrice.Drift * SimulatedPrice.Steps * SimulatedPrice.Delta) * this.PriceSimList.Select(p => Math.Max(p.SimulatedPriceArray.Last() - SimulatedPrice.StrikePrice, 0)).Average();
     }

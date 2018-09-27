@@ -41,7 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Option\BinomialTree.cs" />
+    <Compile Include="Option\BinomialTree\BinomialTree.cs" />
+    <Compile Include="Option\BlackScholes\BlackScholes.cs" />
     <Compile Include="Option\EPutCall.cs" />
     <Compile Include="Option\MonteCarlo\EulerDiscretization.cs" />
     <Compile Include="Option\MonteCarlo\GaussianBoxMuller.cs" />
@@ -56,6 +57,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
