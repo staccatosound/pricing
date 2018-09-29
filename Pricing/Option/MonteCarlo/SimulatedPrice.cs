@@ -4,23 +4,36 @@ namespace Pricing.Option.MonteCarlo
 {
   public class SimulatedPrice
   {
-    public static IDiscretizationScheme DiscretizationScheme { get; set; }
+    public IDiscretizationScheme scheme { get; set; }
 
-    public static double Volatility { get; set; }
-    public static double Drift { get; set; }
-    public static double SpotPrice { get; set; }
-    public static double StrikePrice { get; set; }
+    private double volatility { get; set; }
+    private double riskFree { get; set; }
+    private double assetPrice { get; set; }
+    private double strike { get; set; }
+    private double maturity { get; set; }
+    private int steps { get; set; }
 
-    public static uint Steps { get; set; }
+    public double[] simulatedPriceArray { get; private set; }
 
-    public const double Delta = 1 / 252.0;
-
-    public double[] SimulatedPriceArray { get; private set; }
-
-    public SimulatedPrice()
+    public SimulatedPrice(
+      double assetPrice,
+      double strike,
+      double maturity,
+      double volatility,
+      double riskFree,
+      int steps,
+      IDiscretizationScheme scheme)
     {
-      this.SimulatedPriceArray = new double[SimulatedPrice.Steps];
-      this.SimulatedPriceArray[0] = SimulatedPrice.SpotPrice;
+      this.assetPrice = assetPrice;
+      this.strike = strike;
+      this.maturity = maturity;
+      this.volatility = volatility;
+      this.riskFree = riskFree;
+      this.steps = steps;
+      this.scheme = scheme;
+
+      simulatedPriceArray = new double[steps];
+      simulatedPriceArray[0] = assetPrice;
     }
 
     public Task RunSim() 
@@ -30,9 +43,9 @@ namespace Pricing.Option.MonteCarlo
 
     public void SimulatePrice()
     {
-      for (uint i = 1; i < SimulatedPrice.Steps; i++)
+      for (uint i = 1; i < steps; i++)
       {
-        SimulatedPriceArray[i] = DiscretizationScheme.Increment(SimulatedPriceArray[i-1]);
+        simulatedPriceArray[i] = scheme.Increment(simulatedPriceArray[i-1], volatility, maturity, riskFree);
       }
     }
 

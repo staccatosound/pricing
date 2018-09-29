@@ -41,16 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Const.cs" />
     <Compile Include="Option\BinomialTree\BinomialTree.cs" />
     <Compile Include="Option\BlackScholes\BlackScholes.cs" />
     <Compile Include="Option\EPutCall.cs" />
-    <Compile Include="Option\MonteCarlo\EulerDiscretization.cs" />
-    <Compile Include="Option\MonteCarlo\GaussianBoxMuller.cs" />
-    <Compile Include="Option\MonteCarlo\IDiscretizationScheme.cs" />
-    <Compile Include="Option\MonteCarlo\MilsteinDiscretization.cs" />
-    <Compile Include="Option\MonteCarlo\RandomProvider.cs" />
+    <Compile Include="Option\MonteCarlo\Discretization\EulerDiscretization.cs" />
+    <Compile Include="Utility\GaussianBoxMuller.cs" />
+    <Compile Include="Option\MonteCarlo\Discretization\IDiscretizationScheme.cs" />
+    <Compile Include="Option\MonteCarlo\Discretization\MilsteinDiscretization.cs" />
+    <Compile Include="Utility\RandomProvider.cs" />
     <Compile Include="Option\MonteCarlo\SimulatedPrice.cs" />
-    <Compile Include="Option\MonteCarlo\Simulator.cs" />
+    <Compile Include="Option\MonteCarlo\MonteCarloSimulator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

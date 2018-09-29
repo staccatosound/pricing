@@ -1,0 +1,6 @@
+C:\github\pricing\Pricing\bin\Debug\Pricing.exe.config
+C:\github\pricing\Pricing\bin\Debug\Pricing.exe
+C:\github\pricing\Pricing\bin\Debug\Pricing.pdb
+C:\github\pricing\Pricing\obj\Debug\Pricing.csprojResolveAssemblyReference.cache
+C:\github\pricing\Pricing\obj\Debug\Pricing.exe
+C:\github\pricing\Pricing\obj\Debug\Pricing.pdb
