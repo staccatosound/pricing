@@ -2,6 +2,7 @@
 using Pricing.Option.BinomialTree;
 using Pricing.Option.BlackScholes;
 using Pricing.Option.MonteCarlo;
+using Pricing.Swap;
 using System;
 using System.Collections.Generic;
 
@@ -12,7 +13,7 @@ namespace Pricing
     static void Main(string[] args)
     {
       var time_start = DateTime.Now;
-      WorkSimulateMonteCarlo();
+      WorkVanilla();
       var exec_time = DateTime.Now - time_start;
       Console.WriteLine("Execute Time : {0}ms", exec_time.TotalMilliseconds);
       Console.Read();
@@ -71,5 +72,18 @@ namespace Pricing
       Console.WriteLine("Option Price (Black-Sholes): {0}", option_price);
     }
 
+    static void WorkVanilla()
+    {
+      var fixe_rate = new VanillaSwap().calcFairFixedRateOld();
+      Console.WriteLine("Fair Fixed Rate: {0}", fixe_rate);
+
+      Console.WriteLine("Swap Curve");
+
+      var swap_curve = new VanillaSwap().generateSwapCurve();
+      foreach (var swap_rate in swap_curve)
+      {
+        Console.WriteLine("{0}, {1}", swap_rate.date.ToString("yyyyMMdd"), swap_rate.price);
+      }
+    }
   }
 }

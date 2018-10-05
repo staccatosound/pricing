@@ -4,3 +4,10 @@ C:\github\pricing\Pricing\bin\Debug\Pricing.pdb
 C:\github\pricing\Pricing\obj\Debug\Pricing.csprojResolveAssemblyReference.cache
 C:\github\pricing\Pricing\obj\Debug\Pricing.exe
 C:\github\pricing\Pricing\obj\Debug\Pricing.pdb
+D:\githubdotcom\staccatosound\pricing\Pricing\bin\Debug\Pricing.exe.config
+D:\githubdotcom\staccatosound\pricing\Pricing\obj\Debug\Pricing.exe
+D:\githubdotcom\staccatosound\pricing\Pricing\obj\Debug\Pricing.pdb
+D:\githubdotcom\staccatosound\pricing\Pricing\bin\Debug\Pricing.exe
+D:\githubdotcom\staccatosound\pricing\Pricing\bin\Debug\Pricing.pdb
+D:\githubdotcom\staccatosound\pricing\Pricing\obj\Debug\Pricing.csprojResolveAssemblyReference.cache
+D:\githubdotcom\staccatosound\pricing\Pricing\bin\Debug\Resource\USD1MTD156N.csv

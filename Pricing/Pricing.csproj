@@ -42,10 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Const.cs" />
+    <Compile Include="Entity\PriceEntity.cs" />
     <Compile Include="Option\BinomialTree\BinomialTree.cs" />
     <Compile Include="Option\BlackScholes\BlackScholes.cs" />
     <Compile Include="Option\EPutCall.cs" />
     <Compile Include="Option\MonteCarlo\Discretization\EulerDiscretization.cs" />
+    <Compile Include="Swap\LIBORRate.cs" />
+    <Compile Include="Swap\VanillaSwap.cs" />
     <Compile Include="Utility\GaussianBoxMuller.cs" />
     <Compile Include="Option\MonteCarlo\Discretization\IDiscretizationScheme.cs" />
     <Compile Include="Option\MonteCarlo\Discretization\MilsteinDiscretization.cs" />
@@ -57,6 +60,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Resource\DGS1.csv" />
+    <None Include="Resource\DGS10.csv" />
+    <None Include="Resource\DGS2.csv" />
+    <None Include="Resource\DGS5.csv" />
+    <Content Include="Resource\USD1MTD156N.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
