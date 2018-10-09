@@ -1,0 +1,865 @@
+
+Misc
+Quick Links
+Singly Linked List :
+
+Introduction to Linked List
+Linked List vs Array
+Linked List Insertion
+Linked List Deletion (Deleting a given key)
+Linked List Deletion (Deleting a key at given position)
+Write a function to delete a Linked List
+Find Length of a Linked List (Iterative and Recursive)
+Search an element in a Linked List (Iterative and Recursive)
+Write a function to get Nth node in a Linked List
+Nth node from the end of a Linked List
+Print the middle of a given linked list
+Write a function that counts the number of times a given int occurs in a Linked List
+Detect loop in a linked list
+Find length of loop in linked list
+Function to check if a singly linked list is palindrome
+Remove duplicates from a sorted linked list
+Remove duplicates from an unsorted linked list
+Swap nodes in a linked list without swapping data
+Pairwise swap elements of a given linked list
+Move last element to front of a given Linked List
+Intersection of two Sorted Linked Lists
+Intersection point of two Linked Lists.
+QuickSort on Singly Linked List
+Segregate even and odd nodes in a Linked List
+Reverse a linked list
+More >>
+
+Circular Linked List :
+
+
+
+Circular Linked List Introduction and Applications,
+Circular Linked List Traversal
+Split a Circular Linked List into two halves
+Sorted insert for circular linked list
+Check if a linked list is Circular Linked List
+Convert a Binary Tree to a Circular Doubly Link List
+Circular Singly Linked List | Insertion
+Deletion from a Circular Linked List
+Circular Queue | Set 2 (Circular Linked List Implementation)
+Count nodes in Circular linked list
+Josephus Circle using circular linked list
+Convert singly linked list into circular linked list
+Circular Linked List | Set 1 (Introduction and Applications)
+Circular Linked List | Set 2 (Traversal)
+Implementation of Deque using circular array
+Exchange first and last nodes in Circular Linked List
+More >>
+
+Doubly Linked List :
+
+Doubly Linked List Introduction and Insertion
+Delete a node in a Doubly Linked List
+Reverse a Doubly Linked List
+The Great Tree-List Recursion Problem.
+Copy a linked list with next and arbit pointer
+QuickSort on Doubly Linked List
+Swap Kth node from beginning with Kth node from end in a Linked List
+Merge Sort for Doubly Linked List
+Create a Doubly Linked List from a Ternary Tree
+Find pairs with given sum in doubly linked list
+Insert value in sorted way in a sorted doubly linked list
+Delete a Doubly Linked List node at a given position
+Count triplets in a sorted doubly linked list whose sum is equal to a given value x
+Remove duplicates from a sorted doubly linked list
+Delete all occurrences of a given key in a doubly linked list
+Remove duplicates from an unsorted doubly linked list
+Sort the biotonic doubly linked list
+Sort a k sorted doubly linked list
+Convert a given Binary Tree to Doubly Linked List | Set
+Program to find size of Doubly Linked List
+Sorted insert in a doubly linked list with head and tail pointers
+Large number arithmetic using doubly linked list
+Rotate Doubly linked list by N nodes
+Priority Queue using doubly linked list
+Reverse a doubly linked list in groups of given size
+Doubly Circular Linked List | Set 1 (Introduction and Insertion)
+Doubly Circular Linked List | Set 2 (Deletion)
+More >>
+
+Misc :
+
+Skip List | Set 1 (Introduction)
+Skip List | Set 2 (Insertion)
+Skip List | Set 3 (Searching and Deletion)
+Reverse a stack without using extra space in O(n)
+An interesting method to print reverse of a linked list
+Linked List representation of Disjoint Set Data Structures
+Sublist Search (Search a linked list in another list)
+How to insert elements in C++ STL List ?
+Unrolled Linked List | Set 1 (Introduction)
+A ProgrammerÅfs approach of looking at Array vs. Linked List
+How to write C functions that modify head pointer of a Linked List?
+Given a linked list which is sorted, how will you insert in sorted way
+Can we reverse a linked list in less than O(n)?
+Practice questions for Linked List and Recursion
+Construct a Maximum Sum Linked List out of two Sorted Linked Lists having some Common nodes
+Given only a pointer to a node to be deleted in a singly linked list, how do you delete it?
+Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
+Squareroot(n)-th node in a Linked List
+Find the fractional (or n/k ? th) node in linked list
+Find modular node in a linked list
+Construct a linked list from 2D matrix
+Find smallest and largest elements in singly linked list
+Arrange consonants and vowels nodes in a linked list
+Partitioning a linked list around a given value and If we donÅft care about making the elements of the list ÅgstableÅh
+Modify contents of Linked List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Design and Implementation :
+
+Implement Queue using Stacks
+Design and Implement Special Stack Data Structure | Added Space Optimized Version
+Implement two stacks in an array
+Implement Stack using Queues
+Design a stack with operations on middle element
+How to efficiently implement k stacks in a single array?
+How to create mergable stack?
+Design a stack that supports getMin() in O(1) time and O(1) extra space
+Implement a stack using single queue
+How to implement stack using priority queue or heap?
+Create a customized data structure which evaluates functions in O(1)
+Implement Stack and Queue using Deque
+Standard Problems based on Stack :
+
+Infix to Postfix Conversion using Stack
+Prefix to Infix Conversion
+Prefix to Postfix Conversion
+Postfix to Prefix Conversion
+Postfix to Infix
+Convert Infix To Prefix Notation
+The Stock Span Problem
+Check for balanced parentheses in an expression
+Next Greater Element
+Next Greater Frequency Element
+Number of NGEs to the right
+Maximum product of indexes of next greater on left and right
+The Celebrity Problem
+Expression Evaluation
+Arithmetic Expression Evalution
+Evaluation of Postfix Expression
+Iterative Tower of Hanoi
+Print next greater number of Q queries
+Operations on Stack :
+
+Reverse a stack using recursion
+Sort a stack using recursion
+Sort a stack using a temporary stack
+Reverse a stack without using extra space in O(n)
+Delete middle element of a stack
+Sorting array using Stacks
+Delete array elements which are smaller than next or become smaller
+Check if a queue can be sorted into another queue using a stack
+Reverse individual words
+Count subarrays where second highest lie before highest
+Check if an array is stack sortable
+Misc :
+
+Iterative Postorder Traversal | Set 1 (Using Two Stacks)
+Iterative Postorder Traversal | Set 2 (Using One Stack)
+Merge Overlapping Intervals
+Largest Rectangular Area in a Histogram | Set 2
+Print ancestors of a given binary tree node without recursion
+Reverse a string using stack
+Program for Tower of Hanoi
+Find maximum depth of nested parenthesis in a string
+Find maximum of minimum for every window size in a given array
+Length of the longest valid substring
+Iterative Depth First Traversal of Graph
+Minimum number of bracket reversals needed to make an expression balanced
+Expression contains redundant bracket or not
+Identify and mark unmatched parenthesis in an expression
+https://www.geeksforgeeks.org/check-two-expressions-brackets/
+Find index of closing bracket for a given opening bracket in an expression
+Check for balanced parentheses in an expression
+Balanced expression with replacement
+Check if a given array can represent Preorder Traversal of Binary Search Tree
+Form minimum number from given sequence
+Find if an expression has duplicate parenthesis or not
+Find maximum difference between nearest left and right smaller elements
+Find next Smaller of next Greater in an array
+Find maximum sum possible equal sum of three stacks
+Count natural numbers whose all permutation are greater than that number
+Delete consecutive same words in a sequence
+Decode a string recursively encoded as count followed by substring
+Bubble sort using two Stacks
+Pattern Occurrences : Stack Implementation Java
+Iterative method to find ancestors of a given binary tree
+Stack Permutations (Check if an array is stack permutation of other)
+Tracking current Maximum Element in a Stack
+Check mirror in n-ary tree
+Reverse a number using stack
+Reversing the first K elements of a Queue
+Reversing a Queue
+Check if stack elements are pairwise consecutive
+Spaghetti Stack
+Interleave the first half of the queue with second half
+Remove brackets from an algebraic string containing + and ? operators
+Growable array based stack
+Range Queries for Longest Correct Bracket Subsequence
+
+
+
+
+
+
+
+
+
+Binary Tree Data Structure
+Recent Articles on Binary Tree !
+Topic :
+
+Introduction
+Traversals
+Construction & Conversion
+Checking & Printing
+Summation
+Longest Common Ancestor
+Misc
+Quick Links
+Introduction :
+
+Binary Tree | Set 1 (Introduction)
+Binary Tree | Set 2 (Properties)
+Binary Tree | Set 3 (Types of Binary Tree)
+Handshaking Lemma and Interesting Tree Properties
+Enumeration of Binary Trees
+Insertion in a Binary Tree
+Deletion in a Binary Tree
+BFS vs DFS for Binary Tree
+Binary Tree (Array implementation)
+AVL with duplicate keys
+Applications of tree data structure
+Applications of Minimum Spanning Tree Problem
+Continuous Tree
+Foldable Binary Trees
+Expression Tree
+Evaluation of Expression Tree
+Symmetric Tree (Mirror Image of itself)
+Traversals :
+
+Tree Traversals
+Inorder Tree Traversal without Recursion
+Inorder Tree Traversal without recursion and without stack!
+Print Postorder traversal from given Inorder and Preorder traversals
+Find postorder traversal of BST from preorder traversal
+Find all possible binary trees with given Inorder Traversal
+Replace each node in binary tree with the sum of its inorder predecessor and successor
+Populate Inorder Successor for all nodes
+Inorder Successor of a node in Binary Tree
+Find n-th node of inorder traversal
+Find n-th node in Postorder traversal of a Binary Tree
+Level Order Tree Traversal
+Level order traversal in spiral form
+Level order traversal line by line
+Level order traversal with direction change after every two levels 
+
+Reverse Level Order Traversal
+Reverse tree path
+Perfect Binary Tree Specific Level Order Traversal
+Perfect Binary Tree Specific Level Order Traversal | Set 2
+Reverse alternate levels of a perfect binary tree
+Morris traversal for Preorder
+Iterative Preorder Traversal
+Iterative Postorder Traversal | Set 1 (Using Two Stacks)
+Iterative Postorder Traversal | Set 2 (Using One Stack)
+Postorder traversal of Binary Tree without recursion and without stack
+Diagonal Traversal of Binary Tree
+Iterative diagonal traversal of binary tree
+Boundary Traversal of binary tree
+Density of Binary Tree in One Traversal
+Calculate depth of a full Binary tree from Preorder
+Number of Binary Trees for given Preorder Sequence length
+Modify a binary tree to get Preorder traversal using right pointers only
+More >>
+
+Construction & Conversion :
+
+
+
+Construct Tree from given Inorder and Preorder traversals
+Construct a tree from Inorder and Level order traversals
+Construct Complete Binary Tree from its Linked List Representation
+Construct a complete binary tree from given array in level order fashion
+Construct Full Binary Tree from given preorder and postorder traversals
+Construct Full Binary Tree using its Preorder traversal and Preorder traversal of its mirror tree
+Construct a special tree from given preorder traversal
+Construct tree from ancestor matrix
+Construct Ancestor Matrix from a Given Binary Tree
+Construct Special Binary Tree from given Inorder traversal
+Construct Binary Tree from given Parent Array representation
+Construct a Binary Tree from Postorder and Inorder
+Create a Doubly Linked List from a Ternary Tree
+Creating a tree with Left-Child Right-Sibling Representation
+Prufer Code to Tree Creation
+If you are given two traversal sequences, can you construct the binary tree?
+Construct the full k-ary tree from its preorder traversal
+Construct Binary Tree from String with bracket representation
+Linked complete binary tree & its creation
+Convert a given Binary Tree to Doubly Linked List | Set 1
+Convert a given Binary Tree to Doubly Linked List | Set 2
+Convert a given Binary Tree to Doubly Linked List | Set 3
+Convert a given Binary Tree to Doubly Linked List | Set 4
+Convert an arbitrary Binary Tree to a tree that holds Children Sum Property
+Convert left-right representation of a binary tree to down-right
+Convert a given tree to its Sum Tree
+Change a Binary Tree so that every node stores sum of all nodes in left subtree
+Write an Efficient Function to Convert a Binary Tree into its Mirror Tree
+Convert a Binary Tree into Doubly Linked List in spiral fashion
+Convert a Binary Tree to a Circular Doubly Link List
+Convert a tree to forest of even nodes
+Convert a given Binary tree to a tree that holds Logical AND property
+Convert Ternary Expression to a Binary Tree
+Flip Binary Tree
+Minimum swap required to convert binary tree to binary search tree
+Checking & Printing :
+
+Check for Children Sum Property in a Binary Tree
+Check if a given Binary Tree is SumTree
+Check sum of Covered and Uncovered nodes of Binary Tree
+Check if two nodes are cousins in a Binary Tree
+Check if all leaves are at same level
+Check if removing an edge can divide a Binary Tree in two halves
+Check if given Preorder, Inorder and Postorder traversals are of same tree
+Given level order traversal of a Binary Tree, check if the Tree is a Min-Heap
+Check if leaf traversal of two Binary Trees is same?
+Check if a given Binary Tree is SumTree
+Check whether a given binary tree is perfect or not
+Check whether a binary tree is a full binary tree or not
+Check whether a binary tree is a full binary tree or not | Iterative Approach
+Check whether a given Binary Tree is Complete or not | Set 1 (Iterative Solution)
+Check if a given Binary Tree is height balanced like a Red-Black Tree
+Check if a binary tree is subtree of another binary tree | Set 2
+Check if a Binary Tree (not BST) has duplicate values
+Check if a Binary Tree contains duplicate subtrees of size 2 or more
+Check if a given graph is tree or not
+Check if two trees are Mirror
+Iterative method to check if two trees are mirror of each other
+Write Code to Determine if Two Trees are Identical
+Iterative function to check if two trees are identical
+Check for Symmetric Binary Tree (Iterative Approach)
+Check if there is a root to leaf path with given sequence
+Print middle level of perfect binary tree without finding height
+Print cousins of a given node in Binary Tree
+Given a binary tree, print out all of its root-to-leaf paths one per line
+Print the longest leaf to leaf path in a Binary tree.
+Print path from root to a given node in a binary tree
+Print root to leaf paths without using recursion
+Print all root to leaf paths with there relative positions
+Print the nodes at odd levels of a tree
+Print all full nodes in a Binary Tree
+More >>
+
+Summation :
+
+Sum of all nodes in a binary tree
+Sum of all the parent nodes having child node x
+Find sum of all left leaves in a given Binary Tree
+Find sum of all right leaves in a given Binary Tree
+Find sum of all nodes of the given perfect binary tree
+Diagonal Sum of a Binary Tree
+Find if there is a pair in root to a leaf path with sum equals to rootÅfs data
+Sum of nodes on the longest path from root to leaf node
+Remove all nodes which donÅft lie in any path with sum>= k
+Find the maximum path sum between two leaves of a binary tree
+Find the maximum sum leaf to root path in a Binary Tree
+Maximum sum of nodes in Binary tree such that no two are adjacent
+Maximum sum from a tree with adjacent levels not allowed
+Find largest subtree sum in a tree
+Print all k-sum paths in a binary tree
+Sum of heights of all individual nodes in a binary tree
+Subtree with given sum in a Binary Tree
+Count subtress that sum up to a given value x
+Sum of nodes at maximum depth of a Binary Tree
+Difference between sums of odd level and even level nodes of a Binary Tree
+Find maximum level sum in Binary Tree
+Maximum spiral sum in Binary Tree
+Sum of nodes at k-th level in a tree represented as string
+Sum of all leaf nodes of binary tree
+Sum of leaf nodes at minimum level
+Root to leaf path sum equal to a given number
+Sum of all the numbers that are formed from root to leaf paths
+Merge Two Binary Trees by doing Node Sum (Recursive and Iterative)
+Vertical Sum in a given Binary Tree | Set 1
+Vertical Sum in Binary Tree
+Find root of the tree where children id sum for every node is given
+Replace each node in binary tree with the sum of its inorder predecessor and successor
+Find largest subtree sum in a tree
+
+
+Longest Common Ancestor :
+
+Lowest Common Ancestor in a Binary Tree | Set 1
+Lowest Common Ancestor in a Binary Tree | Set 2 (Using Parent Pointer)
+Lowest Common Ancestor in a Binary Tree | Set 3
+Find distance between two nodes of a Binary Tree
+Print common nodes on path from root (or common ancestors)
+Find LCA in Binary Tree using RMQ
+Maximum difference between node and its ancestor in Binary Tree
+Print the path common to the two paths from the root to the two given nodes
+Query for ancestor-descendant relationship in a tree
+Iterative method to find ancestors of a given binary tree
+Print Ancestors of a given node in Binary Tree
+Kth ancestor of a node in binary tree
+More >>
+
+Misc :
+
+Succinct Encoding of Binary Tree
+Binary Indexed Tree : Range Updates and Point Queries
+The Great Tree-List Recursion Problem
+Custom Tree Problem
+Tree Isomorphism Problem
+Ways to color a skewed tree such that parent and child have different colors
+Write a program to Delete a Tree
+Delete leaf nodes with value as x
+Non-recursive program to delete an entire binary tree
+Write a program to Calculate Size of a tree
+Iterative program to Calculate Size of a tree
+Write a Program to Find the Maximum Depth or Height of a Tree
+Iterative Method to find Height of Binary Tree
+Height of a complete binary tree (or Heap) with N nodes
+Height of binary tree considering even level leaves only
+Find Height of Binary Tree represented by Parent array
+How to determine if a binary tree is height-balanced?
+Find height of a special binary tree whose leaf nodes are connected
+Height of a generic tree from parent array
+Diameter of a Binary Tree
+Diameter of a Binary Tree in O(n) [A new method]
+Possible edges of a tree for given diameter, height and vertices
+Deepest right leaf node in a binary tree | Iterative approach
+Sink Odd nodes in Binary Tree
+Depth of the deepest odd level node in Binary Tree
+Find depth of the deepest odd level leaf node
+Find the Deepest Node in a Binary Tree
+Deepest left leaf node in a binary tree | iterative approach
+Deepest left leaf node in a binary tree
+Find Minimum Depth of a Binary Tree
+Replace node with depth in a binary tree
+Maximum width of a binary tree
+Vertical width of Binary tree | Set 1
+Vertical width of Binary tree | Set 2
+Find if given vertical level of binary tree is sorted or not
+Check if a binary tree is sorted level-wise or not
+Bottom View of a Binary Tree
+Program to count leaf nodes in a binary tree
+Iterative program to count leaf nodes in a Binary Tree
+Count Non-Leaf nodes in a Binary Tree
+Count half nodes in a Binary tree (Iterative and Recursive)
+Count full nodes in a Binary tree (Iterative and Recursive)
+Connect Nodes at same Level (Level Order Traversal)
+Connect nodes at same level using constant extra space
+Connect nodes at same level
+Level with maximum number of nodes
+Averages of Levels in Binary Tree
+Largest value in each level of Binary Tree
+Smallest value in each level of Binary Tree
+Get Level of a node in a Binary Tree
+Get level of a node in binary tree | iterative approach
+Find mirror of a given node in Binary tree
+Find largest subtree having identical left and right subtrees
+Find Count of Single Valued Subtrees
+Closest leaf to a given node in Binary Tree
+Find the closest leaf in a Binary Tree
+Iterative Search for a key ÅexÅf in Binary Tree
+Given a binary tree, how do you remove all the half nodes?
+Swap Nodes in Binary tree of every kÅfth level
+Pairwise Swap leaf nodes in a binary tree
+Root to leaf paths having equal lengths in a Binary Tree
+Root to leaf path with maximum distinct nodes
+Maximum Consecutive Increasing Path Length in Binary Tree
+Longest Path with Same Values in a Binary Tree
+Remove nodes on root to leaf paths of length < K
+Longest consecutive sequence in Binary tree
+Path length having maximum number of bends
+Number of turns to reach from one node to other in binary tree
+Create loops of even and odd values in a binary tree
+Find first non matching leaves in two binary trees
+Get maximum left node in binary tree
+Find a number in minimum steps
+Factor Tree of a given Number
+Number of full binary trees such that each node is product of its children
+Number of subtrees having odd count of even numbers
+Find distance from root to given node in a binary tree
+Find distance between two given keys of a Binary Tree
+Find right sibling of a binary tree with parent pointers
+Find next right node of a given key
+Tilt of Binary Tree
+Find All Duplicate Subtrees
+Top three elements in binary tree
+Find maximum (or minimum) in Binary Tree
+Extract Leaves of a Binary Tree in a Doubly Linked List
+Minimum no. of iterations to pass information to all nodes in the tree
+
+
+
+
+
+
+Binary Search Tree
+Recent Articles on Binary Search Tree !
+Binary Search Tree is a node-based binary tree data structure which has the following properties:
+
+The left subtree of a node contains only nodes with keys lesser than the nodeÅfs key.
+The right subtree of a node contains only nodes with keys greater than the nodeÅfs key.
+The left and right subtree each must also be a binary search tree.
+200px-Binary_search_tree.svg
+
+Topic :
+
+Basic
+Construction and Conversion
+Check and Smallest/Largest Element
+Red Black Tree and Threaded Binary Tree
+Misc
+Quick Links
+Basic :
+
+Binary Search Tree | Set 1 (Search and Insertion)
+Binary Search Tree | Set 2 (Delete)
+Advantages of BST over Hash Table
+Construction and Conversion :
+
+Construct BST from given preorder traversal | Set 1
+Construct BST from given preorder traversal | Set 2
+Binary Tree to Binary Search Tree Conversion
+Sorted Linked List to Balanced BST
+Sorted Array to Balanced BST
+Transform a BST to greater sum tree
+Construct all possible BSTs for keys 1 to N
+Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
+BST to a Tree with sum of all smaller keys
+In-place Convert BST into a Min-Heap
+Convert BST to Min Heap
+Construct BST from its given level order traversal
+Reverse a path in BST using queue
+Binary Tree to Binary Search Tree Conversion using STL set
+Check given array of size n can represent BST of n levels or not
+Convert a normal BST to Balanced BST
+Merge Two Balanced Binary Search Trees
+Merge two BSTs with limited extra space
+
+
+Checking and Searching :
+
+Find the node with minimum value in a Binary Search Tree
+Check if the given array can represent Level Order Traversal of Binary Search Tree
+Check if a given array can represent Preorder Traversal of Binary Search Tree
+Lowest Common Ancestor in a Binary Search Tree
+A program to check if a binary tree is BST or not
+Find k-th smallest element in BST (Order Statistics in BST)
+Check if each internal node of a BST has exactly one child
+Check for Identical BSTs without building the trees
+KÅfth Largest Element in BST when modification to BST is not allowed
+KÅfth Largest element in BST using constant extra space
+Second largest element in BST
+KÅfth smallest element in BST using O(1) Extra Space
+Check if given sorted sub-sequence exists in binary search tree
+Simple Recursive solution to check whether BST contains dead end
+Check if an array represents Inorder of Binary Search tree or not
+Check if two BSTs contain same set of elements
+Largest number in BST which is less than or equal to N
+Maximum Unique Element in every subarray of size K
+Iterative searching in Binary Search Tree
+Find distance between two nodes of a Binary Search Tree
+Count pairs from two BSTs whose sum is equal to a given value x
+Find median of BST in O(n) time and O(1) space
+Largest BST in a Binary Tree | Set 2
+Remove BST keys outside the given range
+Print BST keys in the given range
+Print BST keys in given Range | O(1) Space
+Count BST nodes that lie in a given range
+Count BST subtrees that lie in given range
+Remove all leaf nodes from the binary search tree
+Sum of k smallest elements in BST
+Inorder Successor in Binary Search Tree
+Inorder predecessor and successor for a given key in BST
+Inorder predecessor and successor for a given key in BST | Iterative Approach
+Find if there is a triplet in a Balanced BST that adds to zero
+Find a pair with given sum in a Balanced BST
+Find a pair with given sum in BST
+Maximum element between two nodes of BST
+Find pairs with given sum such that pair elements lie in different BSTs
+Find the closest element in Binary Search Tree
+Find the largest BST subtree in a given Binary Tree
+Replace every element with the least greater element on its right
+Add all greater values to every node in a given BST
+Red Black Tree and Threaded Binary Tree :
+
+C Program for Red Black Tree Insertion
+Left Leaning Red Black Tree (Insertion)
+Threaded Binary Tree
+Threaded Binary Tree | Insertion
+Threaded Binary Search Tree | Deletion
+Convert a Binary Tree to Threaded binary tree | Set 1 (Using Queue)
+Convert a Binary Tree to Threaded binary tree | Set 2 (Efficient)
+Threaded Binary Tree
+Inorder Non-threaded Binary Tree Traversal without Recursion or Stack
+Misc :
+
+Sorted order printing of a given array that represents a BST
+Two nodes of a BST are swapped, correct the BST
+Floor and Ceil from a BST
+Given n appointments, find all conflicting appointments
+How to handle duplicates in Binary Search Tree?
+Data Structure for a single resource reservations
+How to implement decrease key or change key in Binary Search Tree?
+Print Common Nodes in Two Binary Search Trees
+Count inversions in an array | Set 2 (Using Self-Balancing BST)
+Leaf nodes from Preorder of a Binary Search Tree
+Leaf nodes from Preorder of a Binary Search Tree (Using Recursion)
+Binary Search Tree insert with Parent Pointer
+Minimum Possible value of |ai + aj ? k| for given array and k.
+Rank of an element in a stream
+Special two digit numbers in a Binary Search Tree
+
+
+
+
+
+
+Heap Data Structure
+Recent articles on Heap !
+Popular Articles on Heap :
+
+Binary Heap
+Time Complexity of building a heap
+Applications of Heap Data Structure
+Binomial Heap
+Fibonacci Heap
+Leftist Heap
+K-ary Heap
+Heap Sort
+Iterative Heap Sort
+KÅfth Largest Element in an array
+KÅfth Smallest/Largest Element in Unsorted Array | Set 1
+Sort an almost sorted array/
+Tournament Tree (Winner Tree) and Binary Heap
+Check if a given Binary Tree is Heap
+How to check if a given array represents a Binary Heap?
+Connect n ropes with minimum cost
+Design an efficient data structure for given operations
+Merge k sorted arrays | Set 1
+Merge Sort Tree for Range Order Statistics
+Sort numbers stored on different machines
+Smallest Derangement of Sequence
+Largest Derangement of a Sequence
+K maximum sum combinations from two arrays
+Maximum distinct elements after removing k elements
+Maximum difference between two subsets of m elements
+Height of a complete binary tree (or Heap) with N nodes
+Heap Sort for decreasing order using min heap
+Print all nodes less than a value x in a Min Heap.
+Median of Stream of Running Integers using STL
+Largest triplet product in a stream
+Find k numbers with most occurrences in the given array
+Convert BST to Min Heap
+Merge two binary Max Heaps
+K-th Largest Sum Contiguous Subarray
+Minimum product of k integers in an array of positive Integers
+Leaf starting point in a Binary Heap data structure
+Why is Binary Heap Preferred over BST for Priority Queue?
+Convert min Heap to max Heap
+Given level order traversal of a Binary Tree, check if the Tree is a Min-Heap
+Rearrange characters in a string such that no two adjacent are same
+Implementation of Binomial Heap
+Array Representation Of Binary Heap
+Sum of all elements between k1Åfth and k2Åfth smallest elements
+Minimum sum of two numbers formed from digits of an array
+KÅfth largest element in a stream
+k largest(or smallest) elements in an array | added Min Heap method
+Median in a stream of integers (running integers)
+Sort a nearly sorted (or K sorted) array
+
+
+Hashing Data Structure
+Recent Articles on Hashing
+Topic :
+
+Basics
+Easy
+Intermediate
+Hard
+Misc
+Quick Links
+Basics :
+
+Introduction
+Index Mapping (or Trivial Hashing)
+Separate Chaining for Collision Handling
+Open Addressing for Collision Handling
+Double Hashing
+Load Factor and Rehashing
+Easy :
+
+Print a Binary Tree in Vertical Order | Set 2 (Hashmap based Method)
+Find whether an array is subset of another array
+Union and Intersection of two linked lists
+Given an array A[] and a number x, check for pair in A[] with sum as x
+Minimum delete operations to make all elements of array same
+Minimum operation to make all elements equal in array
+Maximum distance between two occurrences of same element in array
+Count maximum points on same line
+Check if a given array contains duplicate elements within k distance from each other
+Find duplicates in a given array when elements are not limited to a range
+Find top k (or most frequent) numbers in a stream
+Most frequent element in an array
+Smallest subarray with all occurrences of a most frequent element
+First element occurring k times in an array
+Given an array of pairs, find all symmetric pairs in it
+Find the only repetitive element between 1 to n-1
+Find any one of the multiple repeating elements in read only array
+Find top three repeated in array
+Group multiple occurrence of array elements ordered by first occurrence
+How to check if two given sets are disjoint?
+Non-overlapping sum of two sets
+Find elements which are present in first array and not in second
+Check if two arrays are equal or not
+Pair with given sum and maximum shortest distance from end
+Pair with given product | Set 1 (Find if any pair exists)
+Find missing elements of a range
+k-th missing element in increasing sequence which is not present in a given sequence 
+
+Find pair with greatest product in array
+Minimum number of subsets with distinct elements
+Remove minimum number of elements such that no common element exist in both arra
+Count items common to both the lists but with different prices
+Minimum Index Sum for Common Elements of Two Lists
+Find pairs with given sum such that elements of pair are in different rows
+Common elements in all rows of a given matrix
+Find distinct elements common to all rows of a matrix
+Find all permuted rows of a given row in a matrix
+Change the array into a permutation of numbers from 1 to n
+Count pairs with given sum
+Count pairs from two sorted arrays whose sum is equal to a given value x
+Count pairs from two linked lists whose sum is equal to a given value
+Count quadruples from four sorted arrays whose sum is equal to a given value x
+Number of subarrays having sum exactly equal to k
+Count pairs whose products exist in array
+Given two unsorted arrays, find all pairs whose sum is x
+Frequency of each element in an unsorted array
+Sort elements by frequency
+Find pairs in array whose sums already exist in array
+Find all pairs (a, b) in an array such that a % b = k
+Convert an array to reduced form | Set 1 (Simple and Hashing)
+Return maximum occurring character in an input string
+Group words with same set of characters
+Second most repeated word in a sequence
+Smallest element repeated exactly ÅekÅf times (not limited to small range)
+Numbers with prime frequencies greater than or equal to k
+Find k numbers with most occurrences in the given array
+Find the first repeating element in an array of integers
+Find sum of non-repeating (distinct) elements in an array
+Non-Repeating Element
+k-th distinct (or non-repeating) element in an array.
+Print All Distinct Elements of a given integer array
+Only integer with positive value in positive negative value in array
+Pairs of Positive Negative values in an array
+Intermediate :
+
+Find Itinerary from a given list of tickets
+Find number of Employees Under every Employee
+Count divisible pairs in an array
+Check if an array can be divided into pairs whose sum is divisible by k
+Longest subarray with sum divisible by k
+Subarray with no pair sum divisible by K
+Print array elements that are divisible by at-least one other
+Find three element from different three arrays such that that a + b + c = sum
+Find four elements a, b, c and d in an array such that a+b = c+d
+Find the largest subarray with 0 sum
+Printing longest Increasing consecutive subsequence
+Longest Increasing consecutive subsequence
+Longest subsequence such that difference between adjacents is one | Set 2
+Longest Consecutive Subsequence
+Largest increasing subsequence of consecutive integers
+Count subsets having distinct even numbers
+Count distinct elements in every window of size k
+Maximum possible sum of a window in an array such that elements of same window in other array are unique
+Distributing items when a person cannot take more than two items of same type
+Design a data structure that supports insert, delete, search and getRandom in constant time
+Check if array contains contiguous integers with duplicates allowed
+Length of the largest subarray with contiguous elements
+Find if there is a subarray with 0 sum
+Print all subarrays with 0 sum
+Find subarray with given sum | Set 2 (Handles Negative Numbers)
+Find four elements that sum to a given value
+Implementing our Own Hash Table with Separate Chaining in Java
+Implementing own Hash Table with Open Addressing Linear Probing in C++
+Vertical Sum in a given Binary Tree
+Group Shifted String
+Minimum insertions to form a palindrome with permutations allowed
+Check for Palindrome after every character replacement Query
+Maximum length subsequence with difference between adjacent elements as either 0 or 1 | Set 2
+Maximum difference between frequency of two elements such that element having greater frequency is also greater
+Difference between highest and least frequencies in an array
+Maximum difference between first and last indexes of an element in array
+Maximum possible difference of two subsets of an array
+Sorting using trivial hash function
+Smallest subarray with k distinct numbers
+Longest subarray not having more then K distinct elements
+Sum of f(a[i], a[j]) over all pairs in an array of n integers
+Find number of pairs in an array such that their XOR is 0
+Maximize elements using another array
+Hard :
+
+Clone a Binary Tree with Random Pointers
+Largest subarray with equal number of 0s and 1s
+Longest subarray having count of 1s one more than count of 0s
+Longest subarray having count of 1s one more than count of 0s
+Count Substrings with equal number of 0s, 1s and 2s
+Print all triplets in sorted array that form AP
+All unique triplets that sum up to a given value
+Find all triplets with zero sum
+Count number of triplets with product equal to given number
+Count of index pairs with equal elements in an array
+Palindrome Substring Queries
+Find smallest range containing elements from k lists
+Range Queries for Frequencies of array elements
+Elements to be added so that all elements of a range are present in array
+Cuckoo Hashing ? Worst case O(1) Lookup!
+Subarrays with distinct elements
+Count subarrays having total distinct elements same as original array
+Count subarrays with same even and odd elements
+Minimum number of distinct elements after removing m items
+Distributing items when a person cannot take more than two items of same type
+Maximum consecutive numbers present in an array
+Maximum array from two given arrays keeping order same
+Maximum number of chocolates to be distributed equally among k students
+Find largest d in array such that a + b + c = d
+Find Sum of all unique sub-array sum for a given array.
+Misc :
+
+Advantages of BST over Hash Table
+Internal Working of HashMap in Java
+Hash Table vs STL Map
+RecamanÅfs sequence
+C++ program for hashing with chaining
+Largest subset whose all elements are Fibonacci numbers
+Pairs of Amicable Numbers
+Find All Duplicate Subtrees
+Hash Table vs STL Map
+Find if there is a rectangle in binary matrix with corners as 1
+Maximum area rectangle by picking four sides from array
+Root to leaf path with maximum distinct nodes
+Game of replacing array elements
+Length of longest strict bitonic subsequence
+Last seen array element (last appearance is earliest)
